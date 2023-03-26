@@ -120,7 +120,8 @@ a.btn-scroll {
   color: #FFFFFF;
   background-color: #387F82;
   border-radius: 50px;
-  box-shadow: 0px 5px 10px rgba(51, 51, 51, 0.3137254902);
+/*   box-shadow: 0px 5px 10px rgba(51, 51, 51, 0.3137254902); */
+  box-shadow: 0 5px #139047;
 }
 a.btn-scroll img {
   margin: 0 0 0 6px;
